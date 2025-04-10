@@ -72,7 +72,7 @@ upgrades to the DSKY that are not completely captured in the archived drawing co
 
 >h. DSKY pushbutton switch spring - Due to failures of the DSKY
 pushbutton switch spring (shown in Figure 3-6) a failure analysis and
-design review of the spring was performed. The failure inalysis and
+design review of the spring was performed. The failure analysis and
 design review indicated that in normal use the spring could crack at
 points of stress concentration. As a result, a new spring was designed.
 As shown in the drawing, the new spring replaces the present
@@ -89,7 +89,7 @@ hardened to a minimum of 270,000 lbf/in^2 U.T.S. to increase the fatigue
 strength of the spring.
 >
 >i. DSKY fire fix - As a result of the
- flammability study performed as authorized by CCA 497-0428, the DSKY alarm indicator(P/N 1006387-003) and DSKY pushbutton caps (P/N 1006353) requiredmaterial changes as follows (see Figure 3-7)
+ flammability study performed as authorized by CCA 497-0428, the DSKY alarm indicator(P/N 1006387-003) and DSKY pushbutton caps (P/N 1006353) required material changes as follows (see Figure 3-7)
 >
 >>1. alarm indicator - affix nonflammable nonreflective glass
 cover with an aluminum frame as an integral part of the indicator panel
@@ -97,7 +97,7 @@ cover with an aluminum frame as an integral part of the indicator panel
 
 ![Pushbutton changes](images/NASA-CR-108361-Fig-3-7.png)
 
->j. Teflon - (not included here, as it dosen't directly apply to the Fusion CAD models, but Teflon coatings were added to reduce the tendency for pushbuttons operate less smoothly due to wear.)
+>j. Teflon - (not included here, as it doesn't directly apply to the Fusion CAD models, but Teflon coatings were added to reduce the tendency for push buttons operate less smoothly due to wear.)
 
 These changes are listed here but not yet integrated into this CAD project.
 
